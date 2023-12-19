@@ -27,10 +27,7 @@
      {
         "NMGEO": "Patio TMS Ejemplo7"
     }
-   
-    
 ],
-
 "patios23":[
     {
         "NMGEO": null
@@ -43,27 +40,47 @@
     }
 ],
     "clientes": [
-        {"NMGEO": "Cliente Ejemplo 1"
+        {
+            "NMGEO": "Cliente Ejemplo 1"
         },
-        {"NMGEO": "Cliente Ejemplo 2"
+        {
+            "NMGEO": "Cliente Ejemplo 2"
         },
-        {"NMGEO": "Cliente Ejemplo 3"
+        {
+            "NMGEO": "Cliente Ejemplo 3"
         },
-        {"NMGEO": "Cliente Ejemplo 4"
+        {
+            "NMGEO": "Cliente Ejemplo 4"
         },
-        {"NMGEO": "Cliente Ejemplo 5"
+        {
+            "NMGEO": "Cliente Ejemplo 5"
         },
-        {"NMGEO": "Cliente Ejemplo 6"
+        {
+            "NMGEO": "Cliente Ejemplo 6"
         }
     ],
     "zonaderobos": [
-        {"NMGEO": "Zona de Robos Cadereyta"},
-        {"NMGEO": "Zona de Robos Guadalupe"},
-        {"NMGEO": "Zona de Robos Ejemplo 1"},
-        {"NMGEO": "Zona de Robos Ejemplo 2"},
-        {"NMGEO": "Zona de Robos Ejemplo 3"},
-        {"NMGEO": "Zona de Robos Ejemplo 4"},
-        {"NMGEO": "Zona de Robos Ejemplo 5"}
+        {
+            "NMGEO": "Zona de Robos Cadereyta"
+        },
+        {
+            "NMGEO": "Zona de Robos Guadalupe"
+        },
+        {
+            "NMGEO": "Zona de Robos Ejemplo 1"
+        },
+        {
+            "NMGEO": "Zona de Robos Ejemplo 2"
+        },
+        {
+            "NMGEO": "Zona de Robos Ejemplo 3"
+        },
+        {
+            "NMGEO": "Zona de Robos Ejemplo 4"
+        },
+        {
+            "NMGEO": "Zona de Robos Ejemplo 5"
+        }
 
     ],
     "gasolineras":[
@@ -91,5 +108,5 @@
         {
             "NMGEO" : "Gasolinera Ejemplo 8"
         }
-    ],
+    ]
 }
