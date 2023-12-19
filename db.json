@@ -71,7 +71,31 @@
      {
         "NMGEO": "Patio TMS Ejemplo7"
     }
-   
-    
-]
+],
+    "gasolineras":[
+        {
+            "NMGEO" : "Gasolinera Ejemplo 1"
+        },
+        {
+            "NMGEO" : "Gasolinera Ejemplo 2"
+        },
+        {
+            "NMGEO" : "Gasolinera Ejemplo 3"
+        },
+        {
+            "NMGEO" : "Gasolinera Ejemplo 4"
+        },
+        {
+            "NMGEO" : "Gasolinera Ejemplo 5"
+        },
+        {
+            "NMGEO" : "Gasolinera Ejemplo 6"
+        },
+        {
+            "NMGEO" : "Gasolinera Ejemplo 7"
+        },
+        {
+            "NMGEO" : "Gasolinera Ejemplo 8"
+        }
+    ]
 }
