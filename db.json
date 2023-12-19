@@ -40,7 +40,7 @@
     },
      {
         "NMGEO": null
-    },
+    }
 ],
     "clientes": [
         {"NMGEO": "Cliente Ejemplo 1"
@@ -54,7 +54,7 @@
         {"NMGEO": "Cliente Ejemplo 5"
         },
         {"NMGEO": "Cliente Ejemplo 6"
-        },
+        }
     ],
     "zonaderobos": [
         {"NMGEO": "Zona de Robos Cadereyta"},
@@ -63,7 +63,7 @@
         {"NMGEO": "Zona de Robos Ejemplo 2"},
         {"NMGEO": "Zona de Robos Ejemplo 3"},
         {"NMGEO": "Zona de Robos Ejemplo 4"},
-        {"NMGEO": "Zona de Robos Ejemplo 5"},
+        {"NMGEO": "Zona de Robos Ejemplo 5"}
 
     ],
     "gasolineras":[
