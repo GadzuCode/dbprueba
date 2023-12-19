@@ -33,45 +33,39 @@
 
 "patios2":[
     {
-        "NMGEO": "PATIOS 2"
-    },
-    {
-        "NMGEO": "PATIOS 2"
-    },
-    {
-        "NMGEO": "PATIOS 2"
-    },
-    {
-        "NMGEO": "PATIOS 2"
-    },
-    {
-        "NMGEO": "PATIOS 22"
-    },
-    {
-        "NMGEO": "Patio TMS NUEVO LAREDO"
-    },
-    {
-        "NMGEO": "Patio TMS Ejemplo1"
+        "NMGEO": null
     },
      {
-        "NMGEO": "Patio TMS Ejemplo2"
+        "NMGEO": null
     },
      {
-        "NMGEO": "Patio TMS Ejemplo3"
+        "NMGEO": null
     },
-     {
-        "NMGEO": "Patio TMS Ejemplo4"
-    },
-     {
-        "NMGEO": "Patio TMS Ejemplo5"
-    },
-     {
-        "NMGEO": "Patio TMS Ejemplo6"
-    },
-     {
-        "NMGEO": "Patio TMS Ejemplo7"
-    }
 ],
+    "clientes": [
+        {"NMGEO": "Cliente Ejemplo 1"
+        },
+        {"NMGEO": "Cliente Ejemplo 2"
+        },
+        {"NMGEO": "Cliente Ejemplo 3"
+        },
+        {"NMGEO": "Cliente Ejemplo 4"
+        },
+        {"NMGEO": "Cliente Ejemplo 5"
+        },
+        {"NMGEO": "Cliente Ejemplo 6"
+        },
+    ],
+    "zonaderobos": [
+        {"NMGEO": "Zona de Robos Cadereyta"},
+        {"NMGEO": "Zona de Robos Guadalupe"},
+        {"NMGEO": "Zona de Robos Ejemplo 1"},
+        {"NMGEO": "Zona de Robos Ejemplo 2"},
+        {"NMGEO": "Zona de Robos Ejemplo 3"},
+        {"NMGEO": "Zona de Robos Ejemplo 4"},
+        {"NMGEO": "Zona de Robos Ejemplo 5"},
+
+    ]
     "gasolineras":[
         {
             "NMGEO" : "Gasolinera Ejemplo 1"
