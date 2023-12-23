@@ -107,5 +107,15 @@
              "IDEVE" : "12",
             "NOMEVE" : "Apagado de Motor"
         }
+    ],
+     "5620": [
+        {
+            "IDEVE" : "11",
+            "NOMEVE" : "Encendido de Motor"
+        },
+        {
+             "IDEVE" : "12",
+            "NOMEVE" : "Apagado de Motor"
+        }
     ]
 }
