@@ -97,5 +97,11 @@
         {
             "NMGEO" : "Gasolinera Ejemplo 8"
         }
+    ],
+    "triggers": [
+        {
+            "IDEVE" : "11",
+            "NOMEVE" : "Encendido de Motor"
+        }
     ]
 }
