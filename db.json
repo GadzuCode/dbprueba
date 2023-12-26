@@ -93,6 +93,28 @@
             "idTrgEve" : "1010",
             "eve_nombre" : "Llegada a Destino"
         }
+    ],
+     "5631": [
+        {
+            "idTrgEve" : "11",
+            "eve_nombre" : "Encendido de Motor"
+        },
+        {
+             "idTrgEve" : "12",
+            "eve_nombre" : "Apagado de Motor"
+        },
+        {
+             "idTrgEve" : "25",
+            "eve_nombre" : "Puerta De Conductor Abierta"
+        },
+        {
+            "idTrgEve" : "26",
+            "eve_nombre" : "Puerta de Conductor Cerrada"
+        },
+         {
+            "idTrgEve" : "1010",
+            "eve_nombre" : "Llegada a Destino"
+        }
     ]
 
 }
