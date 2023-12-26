@@ -88,6 +88,10 @@
         {
             "idTrgEve" : "26",
             "eve_nombre" : "Puerta de Conductor Cerrada"
+        },
+         {
+            "idTrgEve" : "1010",
+            "eve_nombre" : "Llegada a Destino"
         }
     ]
 
