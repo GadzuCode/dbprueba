@@ -74,20 +74,20 @@
     ],   
     "5630": [
         {
-            "IDEVE" : "11",
-            "NOMEVE" : "Encendido de Motor"
+            "idTrgEve" : "11",
+            "eve_nombre" : "Encendido de Motor"
         },
         {
-             "IDEVE" : "12",
-            "NOMEVE" : "Apagado de Motor"
+             "idTrgEve" : "12",
+            "eve_nombre" : "Apagado de Motor"
         },
         {
-             "IDEVE" : "25",
-            "NOMEVE" : "Puerta De Conductor Abierta"
+             "idTrgEve" : "25",
+            "eve_nombre" : "Puerta De Conductor Abierta"
         },
         {
-            "IDEVE" : "26",
-            "NOMEVE" : "Puerta de Conductor Cerrada"
+            "idTrgEve" : "26",
+            "eve_nombre" : "Puerta de Conductor Cerrada"
         }
     ]
 
