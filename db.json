@@ -80,6 +80,14 @@
         {
              "IDEVE" : "12",
             "NOMEVE" : "Apagado de Motor"
+        },
+        {
+             "IDEVE" : "25",
+            "NOMEVE" : "Puerta De Conductor Abierta"
+        },
+        {
+            "IDEVE" : "26",
+            "NOMEVE" : "Puerta de Conductor Cerrada"
         }
     ]
 
