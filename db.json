@@ -97,7 +97,8 @@
      "5631": [
         {
             "idTrgEve" : "11",
-            "eve_nombre" : "Encendido de Motor"
+            "eve_nombre" : "Encendido de Motor",
+            "cbEveTrg" : true
         },
         {
              "idTrgEve" : "12",
@@ -110,6 +111,7 @@
         {
             "idTrgEve" : "26",
             "eve_nombre" : "Puerta de Conductor Cerrada"
+                        "cbEveTrg" : true
         },
          {
             "idTrgEve" : "1010",
