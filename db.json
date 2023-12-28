@@ -95,15 +95,16 @@
         }
     ],
      
-    "5632": [
+    "5631": [
         {
             "idTrgEve" : "11",
             "eve_nombre" : "Encendido de Motor",
-            "cbEveTrg" : "true"
+            "cbEveTrg" : "0"
         },
         {
              "idTrgEve" : "12",
-            "eve_nombre" : "Apagado de Motor"
+            "eve_nombre" : "Apagado de Motor",
+            "cbEveTrg" : "1"
         },
         {
              "idTrgEve" : "25",
@@ -112,7 +113,7 @@
         {
             "idTrgEve" : "26",
             "eve_nombre" : "Puerta de Conductor Cerrada",
-                        "cbEveTrg" : true
+                        "cbEveTrg" : 1
         },
          {
             "idTrgEve" : "1010",
