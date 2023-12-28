@@ -99,16 +99,18 @@
         {
             "idTrgEve" : "11",
             "eve_nombre" : "Encendido de Motor",
-            "cbEveTrg" : "0"
+            "cbEveTrg" : 0
         },
         {
              "idTrgEve" : "12",
             "eve_nombre" : "Apagado de Motor",
-            "cbEveTrg" : "1"
+            "cbEveTrg" : 1
         },
         {
              "idTrgEve" : "25",
-            "eve_nombre" : "Puerta De Conductor Abierta"
+            "eve_nombre" : "Puerta De Conductor Abierta",
+                        "cbEveTrg" : 0
+            
         },
         {
             "idTrgEve" : "26",
@@ -117,7 +119,9 @@
         },
          {
             "idTrgEve" : "1010",
-            "eve_nombre" : "Llegada a Destino"
+            "eve_nombre" : "Llegada a Destino",
+                        "cbEveTrg" : 0
+             
         }
     ]
 
