@@ -117,11 +117,18 @@
             "eve_nombre" : "Puerta de Conductor Cerrada",
                         "cbEveTrg" : 1
         },
+        {
+            "idTrgEve" : "27",
+            "eve_nombre" : "Ejemplo1"
+        },
+        {
+            "idTrgEve" : "29",
+            "eve_nombre" : "Ejemplo1"
+        },
          {
             "idTrgEve" : "1010",
             "eve_nombre" : "Llegada a Destino",
                         "cbEveTrg" : 0
-             
         }
     ]
 
